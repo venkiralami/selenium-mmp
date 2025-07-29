@@ -20,7 +20,7 @@ public class TestClass2 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is for release v1.1 launch");
+		System.out.println("This is for release v1.1 launch - Class2");
 System.out.println("Test Java Program 2 executed Successfully");
 		System.out.println("This is the second test class in the project");
 		System.out.println("Adding some more lines to this class for testing");
